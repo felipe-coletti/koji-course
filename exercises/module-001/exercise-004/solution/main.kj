@@ -1,0 +1,4 @@
+immut name = 'Koji'
+immut version = 2
+
+print(`Welcome to ${name} version ${version}`)

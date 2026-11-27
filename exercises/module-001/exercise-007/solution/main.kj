@@ -1,0 +1,11 @@
+/*
+import { greet, farewell } from 'greet.kj'
+
+print(greet('Koji'))
+print(farewell('Koji'))
+*/
+
+import greet
+
+print(greet.greet('Koji'))
+print(greet.farewell('Koji'))

@@ -1,0 +1,7 @@
+immut greeting = 'Hello'
+mut count = 0
+
+count += 1
+
+print(greeting)
+print(count)

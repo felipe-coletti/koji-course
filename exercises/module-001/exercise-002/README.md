@@ -1,0 +1,8 @@
+# Exercise 2 - Comments
+
+Write a program with at least:
+
+- One multi-line comment containing the exercise statement.
+- One single-line comment explaining what the program does.
+
+The program should still print `Hello, world!`.
